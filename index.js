@@ -239,4 +239,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login("NDI0MzIwMTQ0MjI3OTU4Nzk0.DcPp8g.279tYcyq9EobS8q7PO0H4Kw07ys");
+bot.login(process.env.BOT_TOKEN);
