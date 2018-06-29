@@ -13,7 +13,7 @@ const text2png = require('text2png');
 const talkedRecently = new Set();
 
 
-module.exports.run = async (bot, message, args,) => {
+module.exports.run = async (bot, message, args, sql) => {
     let color;
     let arrow;
     let timeoute = new Discord.RichEmbed()
