@@ -10,22 +10,14 @@
   "engines": {
     "node": "8.0.0"
   },
-  
   "repository": {
     "type": "git",
-    "url": "git://github.com/then/fs.git"
+    "url": "git+https://github.com/shadow0o0/gboty.git"
   },
-  
-  "keywords": [
-    "promise",
-    "then",
-    "fs",
-    "core"
-  ],
   "author": "GarZ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/then/fs/issues"
+    "url": "https://github.com/shadow0o0/gboty/issues"
   },
   "homepage": "https://github.com/shadow0o0/gboty#readme",
   "dependencies": {
